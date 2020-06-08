@@ -62,8 +62,8 @@ Open up `sites/index.html`. Using CSS grid for layout, change the page so that..
 
 Visually, the before and after:
 
-- **Before** —
-- **After** —
+- **Before** — <https://raw.githubusercontent.com/jfarmer/exercises-html-layout-i/master/layout-no-css.png>
+- **After** — <https://raw.githubusercontent.com/jfarmer/exercises-html-layout-i/master/layout-with-css.png>
 
 You *will* feel like this and that's expected:
 
