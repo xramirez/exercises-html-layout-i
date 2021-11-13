@@ -19,21 +19,12 @@ This exercise meant to teach you the basics of page layout using HTML and CSS.
 1. Fork this repository to your own account (or one specific teammate's account if you're working in a group)
 1. Add any teammates as collaborators
 1. Use `git clone` to create a local copy of the repository
-1. Deploy using the `surge` command
+1. Deploy your site to github pages
 
 **Note**: The code for the site lives in the `site/` directory and that's what you want to deploy.
 
 **Also Note**: When referring to a directory like `site`, it generally doesn't matter if we say `site` or `site/`. Programs are designed to handle either. We type out `site/` here because the trailing `/` makes it clear we're talking about a directory.
 
-From the project directory, you can deploy everything in `site/` using the following command:
-
-```console
-surge site
-```
-
-(Yes, `surge site/` will also work.)
-
-There's nothing special about the directory name `site/`, but if we don't keep the files for the site itself separate then running `surge` from inside the project directory will publish everything in this repository (like this README).
 
 ## Instructions
 
