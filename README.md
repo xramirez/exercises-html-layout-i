@@ -1,6 +1,6 @@
 # HTML Layout I - Basic Blog Post
 
-This exercise meant to teach you the basics of page layout using HTML and CSS.
+This exercise meant to teach you the basics of page layout using HTML and CSS.  Fork and Clone to get started.
 
 
 
